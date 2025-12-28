@@ -1,27 +1,30 @@
 # Sales Performance Analysis Dashboard
 
 ## Overview
-This project analyzes sales transaction data to identify revenue trends, profitability, and product performance using Python and Power BI. The objective is to generate actionable business insights to support decision-making.
+This project focuses on analyzing sales transaction data to identify revenue trends, profitability drivers, and product performance. The analysis aims to provide actionable business insights that can support data-driven decision-making.
 
 ## Dataset
-- Transaction-level sales data
-- Columns: order_date, product, category, quantity, revenue, cost
+- Transaction-level sales data (CSV format)
+- Key columns: order_date, product, category, quantity, revenue, cost
+- Data is structured to simulate real-world business transactions
 
-## Tools
+## Tools & Technologies
 - Python (Pandas, Matplotlib)
-- Power BI
-- Excel
+- Jupyter Notebook
+- Power BI (for dashboard visualization)
 
-## Key Analysis
-- Monthly revenue trends
-- Profitability by product category
-- Top-performing products by profit
+## Analysis Workflow
+1. Data loading and inspection  
+2. Data cleaning and type conversion  
+3. Feature engineering (profit, monthly aggregation)  
+4. Exploratory Data Analysis (EDA)  
+5. Business insight generation  
 
-## Dashboard Preview
-*(Dashboard image will be added)*
+## Key Findings
+- Revenue shows fluctuating trends with several peak periods throughout the year.
+- The Electronics category generates the highest revenue but has lower profit margins.
+- Accessories products tend to produce healthier profit margins.
+- Cost control presents an opportunity to significantly improve overall profitability.
 
-## Key Business Insights
-- Revenue shows an upward trend in several periods throughout the year.
-- Electronics contributes the highest revenue but has lower profit margins.
-- Accessories generate more stable profit margins.
+## Repository Structure
 
