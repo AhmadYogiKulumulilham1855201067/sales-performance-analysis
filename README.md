@@ -28,3 +28,15 @@ This project focuses on analyzing sales transaction data to identify revenue tre
 
 ## Repository Structure
 
+## Dashboard Preview
+
+Below is a snapshot of the Power BI dashboard built to visualize sales performance and profitability.
+
+![Power BI Dashboard](dashboard/powerbi_dashboard.png)
+
+### Insights Highlight
+- Revenue shows fluctuating trends across months with noticeable peak periods.
+- Electronics category contributes the highest profit compared to other categories.
+- Despite high revenue, cost control plays a significant role in improving overall profit margin.
+
+
